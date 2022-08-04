@@ -51,7 +51,7 @@ main {
 .form--button {
   grid-column: 1 / -1;
   font-family: "Karla", sans-serif;
-  border-radius: 5px;
+  border-radius: 7px;
   background: linear-gradient(90.41deg, #1f4f8d 1.14%, #1848da 100%);
   color: white;
   border: none;
